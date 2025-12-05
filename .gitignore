@@ -1,0 +1,51 @@
+# =========================
+# Backend - Java / Spring Boot
+# =========================
+
+# Compiled class files
+backend/target/
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+
+# IDE files
+.idea/
+*.iml
+
+# Maven wrapper
+.mvn/
+
+# =========================
+# Frontend - Angular
+# =========================
+
+# Dependencies
+frontend/node_modules/
+frontend/.angular/
+
+# Build output
+frontend/dist/
+
+# Cache
+frontend/.angular/cache/
+.sass-cache/
+
+# Environment files
+frontend/.env
+frontend/.env.local
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
